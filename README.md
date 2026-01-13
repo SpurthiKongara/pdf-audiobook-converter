@@ -26,14 +26,6 @@ Includes both a **desktop GUI version (Tkinter)** and a **web version (Streamlit
 - Streamlit
 
 ---
-
-## 🚀 Installation (Local Desktop App)
-```bash
-git clone https://github.com/SpurthiKongara/pdf-audiobook-converter.git
-cd pdf-audiobook-converter
-pip install -r requirements.txt
-python main.py
-
 ## 👩‍💻 About the Author
 
 **Spurthi Kongara**  
@@ -44,3 +36,16 @@ Velagapudi Ramakrishna Siddhartha Engineering College
 Passionate about building impactful AI/ML projects with modern UI/UX design.  
 Focused on creating tools that balance simplicity with powerful features,  
 and motivated by deploying projects that are instantly accessible to users and recruiters.
+
+---
+
+## 🚀 Installation (Local Desktop App)
+```bash
+git clone https://github.com/SpurthiKongara/pdf-audiobook-converter.git
+cd pdf-audiobook-converter
+pip install -r requirements.txt
+python main.py
+
+---
+
+ 
