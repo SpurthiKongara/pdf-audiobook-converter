@@ -28,11 +28,6 @@ Includes both a **desktop GUI version (Tkinter)** and a **web version (Streamlit
 ---
 ## 👩‍💻 About the Author
 
-**Spurthi Kongara**  
-Second-Year B.Tech Student in Artificial Intelligence & Data Science  
-Velagapudi Ramakrishna Siddhartha Engineering College  
-(Deemed to be University – Siddhartha Academy of Higher Education)
-
 Passionate about building impactful AI/ML projects with modern UI/UX design.  
 Focused on creating tools that balance simplicity with powerful features,  
 and motivated by deploying projects that are instantly accessible to users and recruiters.
